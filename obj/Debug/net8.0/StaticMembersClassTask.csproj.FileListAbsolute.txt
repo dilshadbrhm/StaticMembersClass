@@ -12,3 +12,4 @@ C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\obj\Debug\net8.0
 C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\obj\Debug\net8.0\StaticMembersClassTask.pdb
 C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\obj\Debug\net8.0\StaticMembersClassTask.genruntimeconfig.cache
 C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\obj\Debug\net8.0\ref\StaticMembersClassTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\obj\Debug\net8.0\StaticMembersClassTask.sourcelink.json

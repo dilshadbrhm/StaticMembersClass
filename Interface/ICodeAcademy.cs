@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StaticMembersClassTask.Models
+namespace StaticMembersClassTask.Interface
 {
     internal interface ICodeAcademy
     {
