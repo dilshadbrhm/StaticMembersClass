@@ -1,0 +1,14 @@
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\obj\Debug\net8.0\StaticMembersClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\obj\Debug\net8.0\StaticMembersClassTask.AssemblyInfoInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\obj\Debug\net8.0\StaticMembersClassTask.AssemblyInfo.cs
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\obj\Debug\net8.0\StaticMembersClassTask.csproj.CoreCompileInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\bin\Debug\net8.0\StaticMembersClassTask.exe
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\bin\Debug\net8.0\StaticMembersClassTask.deps.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\bin\Debug\net8.0\StaticMembersClassTask.runtimeconfig.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\bin\Debug\net8.0\StaticMembersClassTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\bin\Debug\net8.0\StaticMembersClassTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\obj\Debug\net8.0\StaticMembersClassTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\obj\Debug\net8.0\refint\StaticMembersClassTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\obj\Debug\net8.0\StaticMembersClassTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\obj\Debug\net8.0\StaticMembersClassTask.genruntimeconfig.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\StaticMembersClassTask\obj\Debug\net8.0\ref\StaticMembersClassTask.dll

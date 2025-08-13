@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StaticMembersClassTask/1.0.0": {
+        "runtime": {
+          "StaticMembersClassTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StaticMembersClassTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
